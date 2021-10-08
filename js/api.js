@@ -1,11 +1,13 @@
 const axios = require('axios');
 
 
-
 function postThat() {
-    user = document.getElementById('user').value;
-    mail = document.getElementById('mail').value;
-    mess = document.getElementById('message').value;
+    console.log("allo");
+    let user = document.getElementById('user').value;
+    let mail = document.getElementById('mail').value;
+    let mess = document.getElementById('message').value;
+
+    console.log(user);
 
     axios.post('http://localhost:3000/post', {
     user: user,
