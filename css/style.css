@@ -1,0 +1,23 @@
+div, body {
+    padding : 0;
+    margin : 0;
+    background-color : darkorange;
+}
+
+
+#content {
+    width : 80%;
+    margin-left : 10%;
+    background-color : lightsalmon;
+    height : auto;
+    margin-top : 10vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.post {
+    width : 90%;
+    margin-left : 5%;
+    background-color: orange;
+    margin-bottom: 50px;
+}

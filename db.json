@@ -1,4 +1,22 @@
-
 {
-    "post": [{ "id": 1, "user": "Maverick", "mail": "maverick@swag.com", "message" : "Salut ca va wesh!?"}]
+  "post": [
+    {
+      "user": "Rodjak",
+      "mail": "antoine.monnin@gmail.com",
+      "message": "ewfefewfewefw",
+      "id": 2
+    },
+    {
+      "user": "Antoine Monnin",
+      "mail": "antoine.monnin@gmail.com",
+      "message": "Salut Rodjak",
+      "id": 3
+    },
+    {
+      "user": "Lionel",
+      "mail": "antoine.monnin@gmail.com",
+      "message": "grgrwrggweewvarebvawrbrwrbebera",
+      "id": 4
+    }
+  ]
 }
